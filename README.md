@@ -1,16 +1,13 @@
-### Hi there 👋
+### Alencar da Costa 👋
 
-<!--
-**AlencarDC/AlencarDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Back-end Developer ⚡ Node.js + TypeScript
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Alencar%20da%20Costa-9580ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alencar-da-costa/)](https://www.linkedin.com/in/alencar-da-costa/)
+[![Gmail Badge](https://img.shields.io/badge/-alcosta@inf.ufrgs.br-9580ff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alcosta@inf.ufrgs.br)](alcosta@inf.ufrgs.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Back-end Developer with practical experience building APIs and web applications. 
+Passionate about **TypeScript**, **Node.js**, JavaScript, Software Architecture, Clean Code, and React.js. 
+
+In addition, I love learning new things and writing readable code. I'm currently learning DDD and Event-Driven architectures.
+
+🌎
